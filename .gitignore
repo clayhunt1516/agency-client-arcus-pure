@@ -1,0 +1,17 @@
+# Data exports — structure tracked, contents excluded
+**/data/*
+!**/data/README.md
+!**/data/.gitkeep
+
+# Local-only
+*.local.md
+_deployment-input.md
+_notion-ids.md
+
+# Claude Code local settings
+.claude/settings.local.json
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
