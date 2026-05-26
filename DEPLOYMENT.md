@@ -23,3 +23,4 @@
   - Git layer scaffolded via Spec C (`spec-c-arcus-pure-git-folder-2026-05-25.md`).
   - Framework cleanup bundle (Spec D) committed to `agency-ai-systems` `main` as `8bcac1b` immediately before this deployment, with README typo fix at `f544e5d`.
   - GitHub push deferred per `push_immediately: no`.
+- 2026-05-26 — GitHub push. Remote at `https://github.com/clayhunt1516/agency-client-arcus-pure` (private). `main` and `deploy-v1.0.0` pushed; `origin/main` set as upstream.
